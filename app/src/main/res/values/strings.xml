@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">一个药店</string>
+
+    <!--主页底部菜单栏-->
+    <string-array name="bottom_tab">
+        <item>主页</item>
+        <item>药品</item>
+        <item>我的</item>
+    </string-array>
+</resources>
